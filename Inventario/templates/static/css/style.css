@@ -1,0 +1,91 @@
+
+header div .first{
+    background: #6dccaa;
+    color:#fff;
+}
+
+
+header div .second, header div .third {
+    background:#85d4b7;
+}
+.third{
+    padding:5px;
+    display: flex;
+    align-items: center; 
+    color:#fff;
+}
+
+.social .circle {
+    border-radius: 50px;
+    line-height: 50px;
+    background: #ffffff;
+    width:50px;
+    height:50px;
+    text-align: center;
+    color:#85d4b7;
+}
+
+article {
+    padding:5px 0;
+}
+
+.gallery{
+    padding:5px 0   ;
+    
+    background:#85d4b7;
+}
+.grid-item{
+    max-height: 200px;
+}
+
+.grid-sizer { width: 33,33%; }
+
+.modal-image .modal-content{
+    padding:5px;
+    text-align: center;
+}
+
+footer{
+    background: #e6e6e6;
+}
+
+.campaña{
+    background: #fff;
+    border: 2px solid;
+    font-weight: bold;
+}
+
+label.error{
+    color:red;
+}
+
+th{
+    color: rgb(202, 182, 0);
+}
+
+td{
+    color: white;
+}
+
+.fondo-tabla{
+background-color: rgba(0, 0, 0, 0.521);
+}
+
+.abs-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+label{
+    color: white;
+}
+
+small{
+    color: white;
+}
+
+h5{
+    color: white;
+}
